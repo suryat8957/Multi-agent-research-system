@@ -117,7 +117,7 @@ The project features a full-featured **Streamlit Web Application** in `app.py`:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/Multi-agent-research-system.git
+git clone https://github.com/suryat8957/Multi-agent-research-system.git
 cd Multi-agent-research-system
 ```
 
